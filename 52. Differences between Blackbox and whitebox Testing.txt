@@ -1,0 +1,57 @@
+*************** Differences between Blackbox and whitebox Testing ********************
+
+BlackBox Testing: Black-box testing is a type of software testing in which the tester is 
+not concerned with the software’s internal knowledge or implementation details but rather 
+focuses on validating the functionality based on the provided specifications or requirements. The tester only focuses on the input and output of the software.
+
+Black Box Testing is mostly done by software testers.
+No knowledge of programming is required.
+
+Example:
+Functional Testing 
+Regression Testing
+Nonfunctional Testing (NFT)
+
+
+
+WhiteBox Testing: White box testing techniques analyze the internal structures the used data 
+structures, internal design, code structure, and the working of the software rather than 
+just the functionality as in black box testing. It is also called glass box testing or 
+clear box testing or structural testing. White Box Testing is also known as transparent 
+testing or open box testing.
+
+White Box Testing is mostly done by software developers.
+It is mandatory to have knowledge of programming.
+
+Example: 
+Unit Testing
+Integration Testing
+Regression Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+*********** What is Regression testing and when do we need it ************
+Regression testing is re-running functional and non-functional tests to ensure that 
+previously developed and tested software still performs as expected after a change.
+
+
+When a new features has updated or any bug has fixed, we run it test and also
+have to test all other features to be confirmed that this new update didn't put any 
+impact to the other features. The existing application still works the new changes.
+
+
+Automation testing majorly does regression testing cause it's need much time to test all.
+Recommended before every release.
+
+
+
+
+
+
+
+
+

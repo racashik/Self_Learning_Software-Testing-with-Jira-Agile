@@ -1,0 +1,28 @@
+************* create defect with the complete details of bug ***********
+
+Steps to reproduce:
+Navigate to page
+Do not select any items in cart
+Then verify that check out button is disabled
+
+Test Data:
+Username: admin, Password: @124dfgdkDH
+
+URL:
+QA1
+
+Expected Result:
+Add to card button should be disable
+
+Actual Result:
+Add to cart is enabled and taking us to check out page
+
+Timestamp:
+16:16:24
+
+TroubleShoot thought:
+
+Screenshot: 
+
+
+

@@ -1,0 +1,10 @@
+**************  What is components in Jira **************
+Components is like a team list which mentioned in the "Epic" to see which team is assigned to do that Epic task.
+Can creats the Components from the "Component Menu".
+
+
+
+*************** What is Release versions / Fix Version in Jira ******************
+In Release Version we can mention which task will be realeased on which date.
+We create the Release list from the "Release Menu" and it mention in the "Fix Version" section in Jira.
+

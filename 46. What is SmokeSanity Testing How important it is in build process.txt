@@ -1,0 +1,40 @@
+**********  What is Smoke/Sanity Testing How important it is in build process  *************
+Smoke testing, also called build verification testing or confidence testing, 
+is a software testing method that is used to determine if a new software build is ready 
+for the next testing phase. This testing method determines if the most crucial functions 
+of a program work but does not delve into finer details.
+
+As a preliminary check of software, smoke testing finds basic and critical issues in 
+an application before more in-depth testing is done. If a piece of software passes a 
+smoke test, quality assurance (QA) teams then proceed with further testing. 
+A failure means the software must be handed back to the development team.
+
+
+Smoke test typically runs after every build.
+
+It runs by the CI/CD environment like Jenkin.
+
+
+Example of Smoke/Sanity Test ***************
+
+Suppose a website has five pages and each pages hase some images, links, buttons, products etc.
+Here in every release of each page we can run the smokee/sanity test and only check does 
+the page loads properly or not. Are images, button ok or not. Do we have right amount of 
+product or not.
+
+Here will not test those functions in details. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

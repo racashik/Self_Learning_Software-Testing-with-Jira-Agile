@@ -1,0 +1,18 @@
+*************** What is Kan ban Board in Agile *************
+Kan Ban Board has no "Sprint", it only has the project deadline. Here all the task show in the Backlog list/to do list, 
+Team will pick and finish one by one which one they prefer to begin. 
+
+
+Kan Ban Board = Scrum - Sprint 
+
+So KanBan Board has everything except "Sprint", which has in "Scrum" board.
+
+
+
+But 80% use "Scrum" Board and 20% use "KanBan" Board so better to go with "Scrum" Board always.
+
+
+
+
+
+

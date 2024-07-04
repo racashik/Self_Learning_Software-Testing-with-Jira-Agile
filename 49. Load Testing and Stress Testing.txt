@@ -1,0 +1,34 @@
+*********** Load Testing and Stress Testing ************
+
+Load Testing: Load testing perform to identify at which load, system is behaving.
+i.e: If 1K Users access to a website how much time it takes to load, and gradually this
+way check how much time takes for 10K, 100K and so on.
+
+Definitelt when the number of users will be increased, loading time will be also increased, 
+so by doing this test, tester note and report that information to the developer.
+
+
+
+
+Stress Testing: Stress Testing perform to identify the "Breaking Point". At which number of
+user's access the system server get crashed. 
+i.e: if 10K users visit hte system at a same time, system runs well, all can et access though
+it's taking slight more time to load but when 10K plus 1 visits, server gets out of service
+so here can consider 10,001 is the Breaking point of the system.
+
+
+By recording this Breaking point, tester report to the developer. 
+
+
+
+The Most popular Load testing tools is "JMeter" 
+
+
+
+
+
+
+
+
+
+

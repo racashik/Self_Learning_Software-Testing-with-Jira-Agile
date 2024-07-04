@@ -1,0 +1,45 @@
+************** Difference between Functional and Non Functional reqs ****************
+
+Functional Requirement: Functional requirement is from client to developer side. Here 
+client mention all the feature/function of the system. 
+
+Example:
+The system must send a confirmation email whenever an order is placed.
+The system must allow blog visitors to sign up for the newsletter by leaving their email.
+The system must allow users to verify their accounts using their phone number.
+
+
+Non-functional Requirement: Non functional requirements are those which client do not mention
+cause they are not much familiar with the technical terms but still crutial for the system.
+
+It can be said, non-functional requirement is from developer to client.
+
+Example:
+Security
+Usability
+Scalability
+Portability
+Maintainability and so on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+************** We will use JIRA as a software management tools *************
+
+Steps to install Jira
+1. Sign up to "https://www.atlassian.com/"
+2. Select "Scrum" project template
+3. And for Scrum Project Template, select the "Company-Managed Project" rather than Team-managed Project
+
+We can check and create new project from the "Projects" menue
+
+We can directly use the domain for logging to this JIRA project, here our project link is : https://upprora.atlassian.net/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

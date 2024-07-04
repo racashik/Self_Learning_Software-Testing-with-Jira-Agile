@@ -1,0 +1,56 @@
+******** What is Defect Triage ************
+Defect Triage is a meeting where Product Owner(PO), Developer, QA Manager, Tester
+discuss regards selectiong the Severity and Priority and which one really need to 
+fix first.
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+**************** Differences between Severity and Priority of Defect **********************
+
+Severity: It is the extent to which the defect can affect the software. 
+Mention the impact on software. It's mention the functional issue.
+
+Severity is categorised into 4 Class.
+
+Critical, Major, Medium, Low
+
+
+Critical: The defect indicates complete shut-down of the application, nothing can proceed further.
+i.e: Shop tab not working.
+
+Major: It is a highly severe defect and collapses the system. However, certain parts of the 
+system remain functional.
+i.e: Can't add few products(Iphone X) to cart.
+
+Medium: It causes some undesirable behavior, but the application is still functional.
+i.e: Navigating to checkout page without selecting any orders.
+
+Low: It won't cause any major break-down of the application. We can fix or skip this bug also.
+i.e: Cart is getting cleared on page refresh.
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+Priority: Priority is defined as the order in which a defect should be fixed. 
+It's mention how quickly it need to be fixed.
+
+It can be categorized as Low, Medium, High
+
+Usually we can't say High Severity means high Priority. 
+
+A common interview question is, give an example of High Priority but Low Severity. 
+A spelling mistake in the website's name on the main page is considered a High Priority issue.
+Although it does not affect functionality and can be marked as Low Severity, 
+it negatively impacts the website's reputation. Therefore, fixing it is of the highest priority.
+
+
+Also can say, Any cosmetic or spelling issues which is within a paragraph or in the report.
+
+
+
+

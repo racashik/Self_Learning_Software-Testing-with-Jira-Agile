@@ -1,0 +1,28 @@
+*************  Introduction to Xray App in Jira and its terminologies  *****************
+Xray app use to add test case on Jira. We have to install this app from the "App" Menu.
+
+Once we install the "Xray" app, have to confiqure it for that project were we want to use this app feature.
+i.e: we will configure with our existing project called "Credit Card Banking".
+
+Configure Project --> Choose Project to Configure --> Select "Credit Card Banking" (which is our existing project in Jira)
+--> Add Xray issue Types.
+
+After Configure the "Xray" app with the project, following 6 features will be available.
+--> Test  (add all the rest cases and the steps)
+--> Precondition  (Add all the precondition, which need before run the Test Case)
+--> Test Set  (Here can make a group, in which group will have which test cases)
+--> Test Plan (As a QA Manager, can make a Test plane for a specific date, there can mention the "Test" & Or "Test Set" names, that will be to be run on a specific time.
+--> Test Execution (It will have to create from "Test Plan". After making this Test Execution, can mention which test is passed, fail, progresses, can assign to any team member, can get Test report and so on)
+--> Sub Test Execution
+
+
+************ Difference between "Test Case" and "Test Plan" *************
+Test Case is a collection of test cases. 
+And Test Plan creates for a release, where can select which Test cases and Test Sets will be execute.
+
+
+
+
+
+
+

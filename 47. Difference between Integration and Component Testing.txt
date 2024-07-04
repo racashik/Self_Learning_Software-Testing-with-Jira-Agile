@@ -1,0 +1,24 @@
+*************  Difference between Integration and Component Testing  ******************
+
+Component testing, also known as unit testing or module testing, is a level of software 
+testing that focuses on verifying the individual components or units of a system.
+
+
+i.e: A website has 3 pages, Home, About Us and Contact. Testing each pages individually
+called Component testing.
+
+
+
+
+
+Integration Testing is multiple parts of a software system are tested as a group.
+
+i.e: Contact page has a Contact Us Form where submit the Name, email and message.
+Once customer fill the form and submit, those information stored in a database so here
+the form is integrated with the database. Checking the information is storing to the 
+database or not is the Integration testing here.
+
+
+
+
+

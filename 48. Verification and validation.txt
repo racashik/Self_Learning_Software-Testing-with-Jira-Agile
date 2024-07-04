@@ -1,0 +1,33 @@
+****************  Verification and validation ***************
+
+Verification: Verification is a process of determining if the software is designed and 
+developed as per the specified requirements.
+
+
+
+Validation:Validation makes at the end of the full software development. 
+It is the process of checking if the software (end product) has met the client’s true 
+needs and expectations. 
+
+
+
+UAT Test: User acceptance testing (UAT) is the final stage of software development, 
+in which end users and clients test the software in real-world conditions to assess its 
+functionality and usability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

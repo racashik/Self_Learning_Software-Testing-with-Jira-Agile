@@ -1,0 +1,15 @@
+*********** Creating Subtasks in Jira for Userstories ***********
+
+We create Sub-tasks to assign the task to different team like
+
+1. Developer
+2. Manual Testing
+3. Automation
+
+
+
+
+
+
+
+

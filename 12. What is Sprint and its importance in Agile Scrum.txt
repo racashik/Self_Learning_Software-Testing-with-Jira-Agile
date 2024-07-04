@@ -1,0 +1,31 @@
+**********  What is Sprint and its importance in Agile Scrum  ************
+Sprint is like a timeframe in which a team will work to accomplish specific goals.
+We split Epic in to User Story and here split the whole User Story in Sprint.
+
+i.e: There are 20 User story we have that need to finish in 60 days. 
+We ca split those 20 User Story in 5 Sprint.
+
+So each Sprint will have 12 days and have to finish 4 User Stories.
+
+
+N.B: We can create "Sprint" from the Backlog menu
+.
+
+
+Since we put the "Story Points" to each "User Story" and each point represents 1 working day.
+When will grooming the Sprint, we can organize the Sprint "Estimate" number also.
+
+As we have seen in the avobe scenario that we will have 12 days for each/first Sprint so we will add those
+"User Stories" which makes in total 12 "Estimate" point for the "Sprint". 
+
+
+Once we groom the Sprint board, we can schedule the starting time and start that Sprint by clicking the "Start Sprint" Button,
+and can monitor the Sprint word progress from the "Active Sprints" menu.
+
+
+
+
+
+
+
+

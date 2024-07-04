@@ -1,0 +1,132 @@
+*********  Introduction to Software Testing Life cycle (STLC) **********
+
+Testing is not only limited just to find bugs but has a wide scope and is required 
+right from the beginning of the projectwhen the requirements are not even finalized.
+
+Testing also has a lifecycle in 6 phase:
+
+Requirement Analysis --> Test Planning --> Test Case Development --> Test Environment Setup
+--. Test Execution --> Test Closure.
+
+
+
+1. Requirement Analysis: The QA team will interact with various stackholders (Client, Business
+Analyst, Technical Leads, System Architects etc) to understand the requirements in detail.
+
+
+
+2. Test Planning: Test planning is most important phase of STLC where all testing strategy is defined.
+How to prepare Test Plan ans Strategy?
+
+
+Test Plan is a document which contain the plan related to all testing activities which needs
+to be done to deliver a quality product.
+
+This document is prepared after analyzing Business requirements of the project.
+
+It is usually prepared by the Test Lead or Senior QA in Agile team.
+
+The Focus of the document is to describe:
+
+-> What to test (In Scope of testing)
+-> What cannot be test (i.e: in a ecommerce site has a Paypal payment method, 
+	so here we can't test how paypal working, cause can't have paypal's code to us)
+-> Tools Used for testing Environment/Infrustructure required to Test (Jira, VM"multiple Browser" etc)
+-> Staffing and Traning Needs
+-> Testing Duration
+-> Risks and contingencies plan
+
+
+N.B: Requirement Analysis and Test planning is constant for both Agile and Water fall model.
+It's need to be completed before Test Case Development, Test Environment Setup and Test Execution.
+
+For Water fall model, Test Case Development, Test Environment Setup and Test Execution get done
+once the whole project is done by the developer, when developer share the Duild, then QA team
+can test.
+
+On the other hand, Test Case Development, Test Environment Setup and Test Execution repeat 
+continiously for every epic/user stories. When one chunk of User Stories are completed
+QA team make the test and when another chunk of User Stories get ready, QA team again test.
+
+
+
+
+3. Test Case Development: This is the phase of STLC where testing team writedown the detailed 
+test cases. Along with test cases testing team also preapare the test data if any required
+for testing. Once the test cases are ready then these test cases are reviewed by peer membetrs
+or QA lead.
+
+Also, the Requirement Traceability Matrix (RTM) is prepared. The RTM is an industrial-accepted
+formate for tracking requirements where each test case is mapped with the requirements.
+Using this RTM, we can track backward & Forward tracebility.
+
+
+Using the RTM we can find the Test coverage. i.e: we have 5 user requirements and 5 Test cases.
+Using the RTM we can map which Test cases are written for which requirement and is there any
+requiremnet we have that's not having any Test cases, if so then can make some test cases for
+that requirements as well.
+
+This RTM could be prepare on a Excel sheet. Each column is the Requirement no and Rows are Test
+cases. For example:
+
+
+	Req1	Req2	Req3	Req4	Req5
+----------------------------------------------
+TC1	X		X
+----------------------------------------------
+TC2		X	
+----------------------------------------------
+TC3				X
+----------------------------------------------
+TC4					X
+----------------------------------------------
+TC5	X		X
+----------------------------------------------
+
+And we can mark it the "X" sign which Requirements for which Test Cases.
+
+
+
+
+
+4. Test Environment Setup: Here Environment is "Server". For every software there should
+have seperate Environmet for Developer and Tester. After developing the the code, dev 
+deploy the code to the QA team server so that QA team can test from their own server, cause
+QA tean shouldn't/can't test from the Developer server. 
+
+We can say server is web address like: www.dev.com (It's for developer)
+www.QAteam.com (It's for the QA team server where developer deploy their code for testing)
+
+
+N.B: In the intervied, can ask this question, what is the most challenging part in STLC.
+Test Environment Setup is the most challenging part cause for example, there are multiple
+developer working on multiple feature. And one developer Dev1 delployed the code to the
+QA server and before finish that testing Dev2 deployed his code to the QA server again. 
+So Dev2 code will be override of Dev1 code. And QA team can't test the Dev1 codes.
+
+Here the solution is: there should be multiple server for the QA team so each Developer
+can deploy their own code to different QA server. 
+
+
+
+
+5. Test Execution: During this phase testers will carry out the testing bases on the test 
+plans ans test cases prpared. Bugs will be reported back to the development team for 
+correction and retesting will be performed.
+
+
+
+6. Test Closure: Test closure activities are done mostly after the product is delivered.
+
+Test closure activities mainly comprise of 4 types:
+-> Ensure Test Completion
+-> Handover Test Artificates (Give all the test cases, automation test codes, reports 
+	to the cliets)
+-> Project Retrospectives
+-> Achive Test Work Products
+
+
+
+
+
+

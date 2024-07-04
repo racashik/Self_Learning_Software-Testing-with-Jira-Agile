@@ -1,0 +1,43 @@
+************* What is Epic *************
+Epic like the feature of the software which are in high level. 
+It's large enough that can be split into smaller user stories.
+
+i.e: A software have to develop the following features
+1. Develop Login Module
+2. Credit Card Dashboard
+3. Profile
+
+So here has 3 Epic
+
+
+
+
+
+************ What is User Story *************
+User story is like the chunk of work in the whole Epic. 
+It's the smallest unit of work in an agile framework.
+
+i.e: We have to develop "Profile" feature but it has the following small 4 unit
+1. Card holder Name
+2. Card details
+3. Available Balance
+4. Log out button
+
+So here has 4 User stories for the epic called "Profile"
+
+To achieve the "Profile" epic, we need to developed the 4 User Stories
+
+
+
+********** Structure of the Description of the User Story ***********
+"As a [Person], I [Want to], [so that]"
+
+i.e: As a client, I want to insert my email and password in the login page so that I can login.
+OR: As a client, I should be able to enter my email and password in the login page so that I can login.
+
+
+
+
+
+
+

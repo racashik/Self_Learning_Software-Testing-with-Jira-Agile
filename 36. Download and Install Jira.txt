@@ -1,0 +1,4 @@
+Download Jira locally from the following url
+https://www.atlassian.com/software/jira/update
+
+After installing Jira on Local server it will be able to access through: http://localhost:8080/
